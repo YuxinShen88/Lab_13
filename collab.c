@@ -26,6 +26,7 @@ void briver6_yshen60() {
   printf("Some of the problems we found were that the collaboration aspect was difficult,
          at least with peers, to complete the code together. I have tried adding collaborators to the setting.
          But this still required sharing the code with each other after completing separate sections.\n");
+  printf("Works");
 }
 int main()
 {
