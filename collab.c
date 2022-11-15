@@ -32,6 +32,6 @@ int main()
     printf("This code has been created by the students of CS 211, Fall 2022!\n\n");
     
     reed_ekidan2();
-    
+    briver6_yshen60();
     return 0;
 }
