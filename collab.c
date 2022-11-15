@@ -21,6 +21,12 @@ void reed_ekidan2() {
   printf("We learned that git and GitHub are amazing, powerful tools!\n");
 }
 
+void reed_ekidan2() {
+  printf("Yuxin Shen and Bernardo Rivera\n");
+  printf("Some of the problems we found were that the collaboration aspect was difficult,
+         at least with peers, to complete the code together. I have tried adding collaborators to the setting.
+         But this still required sharing the code with each other after completing separate sections.\n");
+}
 int main()
 {
     printf("This code has been created by the students of CS 211, Fall 2022!\n\n");
